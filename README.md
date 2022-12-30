@@ -15,8 +15,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=0xMaruf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=0xMaruf)](https://gtce.itsvg.in)
-https://gist.github.com/kenmori/17e1122d5394251533933673a08f6a78#:~:text=%5B!%5BTwitter%20URL%5D(https%3A//img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg%3Fstyle%3Dsocial%26label%3DFollow%2520%2540bukotsunikki)%5D(https%3A//twitter.com/bukotsunikki)
+[![](https://gtce.itsvg.in/api?username=0xMaruf)](https://twitter.com/0xMaruf)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
