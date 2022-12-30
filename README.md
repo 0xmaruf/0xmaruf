@@ -16,8 +16,7 @@
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=0xMaruf)](https://gtce.itsvg.in)
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=0xMaruf&theme=vue-dark&response=true&border=true&time=true&icon=bug"/></a>
+https://gist.github.com/kenmori/17e1122d5394251533933673a08f6a78#:~:text=%5B!%5BTwitter%20URL%5D(https%3A//img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg%3Fstyle%3Dsocial%26label%3DFollow%2520%2540bukotsunikki)%5D(https%3A//twitter.com/bukotsunikki)
 ---
-[![](https://visitcount.itsvg.in/api?id=0xMaruf&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
