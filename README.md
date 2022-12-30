@@ -16,8 +16,7 @@
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=0xMaruf)](https://gtce.itsvg.in)
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=0xMaruf&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
-
+<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=0xMaruf&theme=vue-dark&response=true&border=true&time=true&icon=bug"/></a>
 ---
 [![](https://visitcount.itsvg.in/api?id=0xMaruf&icon=0&color=0)](https://visitcount.itsvg.in)
 
