@@ -1,5 +1,6 @@
 # 💫 About Me:
-Security Researcher & Bug Hunter<br>Web/Android/IoS and Network Pentester
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=15A90B&multiline=true&width=700&height=500&lines=This+is+Md+Maruf+Hosan+,+Cybersecurity+Researcher+&+Bug+Bounty+Hunter;Web+App+Pentester.)](https://git.io/typing-svg)
+
 
 
 ## 🌐 Socials:
