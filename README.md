@@ -1,7 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=15A90B&multiline=true&width=700&height=500&lines=This+is+Md+Maruf+Hosan+,+Cybersecurity+Researcher+&+Bug+Bounty+Hunter;Web+App+Pentester.)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=068502&width=435&lines=This+is+Md+Maruf+Hosan+%2C+A+Cyber+Security+Researcher+and+Bug+Bounty+Hunter;Web+App+Pentester+)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0xMaruf) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/0xMaruf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xMaruf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xMaruf) 
