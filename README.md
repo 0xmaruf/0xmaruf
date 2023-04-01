@@ -1,6 +1,6 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=15&pause=1000&color=068502&width=490&lines=This+is+Md+Maruf+Hosan+%2C+A+Cyber+Security+Researcher.;Web+App+Pentester+)](https://git.io/typing-svg)
-"<img src=X onerror=alert(2) onload=alert(1) onmouseover=alert(2)>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=15&pause=1000&color=068502&width=490&lines=This+is+Md+Maruf+Hosan+%2C+A+Cyber+Security+Researcher.;Web+App+Mobile,App+Pentester)](https://git.io/typing-svg)<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xmaruf.png" alt="TryHackMe">
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0xMaruf) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/0xMaruf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xMaruf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xMaruf) 
 
