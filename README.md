@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=15&pause=1000&color=068502&width=490&lines=This+is+Md+Maruf+Hosan+%2C+A+Cyber+Security+Researcher.;Web+App+Mobile,App+Pentester)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=15&pause=1000&color=068502&width=490&lines=This+is+Md+Maruf+Hosan+%2C+A+Cyber+Security+Researcher.;Web+App+,Mobile+App+Pentester)](https://git.io/typing-svg)<br>
 
 ## Tryhackme
 <script src="https://tryhackme.com/badge/780589"></script>
